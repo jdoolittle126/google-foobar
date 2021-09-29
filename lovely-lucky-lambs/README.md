@@ -22,7 +22,6 @@ To keep things interesting, Commander Lambda varies the sizes of the Lucky LAMB 
 
 ## Languages
 
-
 To provide a Python solution, edit solution.py
 To provide a Java solution, edit Solution.java
 
