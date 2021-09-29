@@ -11,6 +11,8 @@
 
 ## Level 3
 
+1. [The Grandest Staircase of Them All](https://github.com/jdoolittle126/google-foobar/tree/main/the-grandest-staircase-of-them-all)
+
 ## Level 4
 
 ## Level 5
