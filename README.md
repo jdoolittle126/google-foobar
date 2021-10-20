@@ -12,6 +12,7 @@
 ## Level 3
 
 1. [The Grandest Staircase of Them All](https://github.com/jdoolittle126/google-foobar/tree/main/the-grandest-staircase-of-them-all)
+2. [Queue To Do](https://github.com/jdoolittle126/google-foobar/tree/main/queue-to-do)
 
 ## Level 4
 
